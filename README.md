@@ -9,7 +9,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://shields.io)
+![Power BI](
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="28" role="img" aria-label="BUILD: PASSING"><title>PowerBI</title><g shape-rendering="crispEdges"><rect width="61.25" height="28" fill="#555"/><rect x="61.25" width="83.75" height="28" fill="#4b0"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="306.25" y="175" textLength="372.5">BUILD</text><text transform="scale(.1)" x="1031.25" y="175" textLength="597.5" font-weight="bold">PASSING</text></g></svg>)
 ![Tableau](https://shields.io)
 ![Excel](https://shields.io)
 ![dbt](https://shields.io)
