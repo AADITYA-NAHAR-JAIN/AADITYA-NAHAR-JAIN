@@ -15,7 +15,35 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nodejs,react,nextjs,ts,tailwind,html,css,postgres,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=python,
+    javascript,
+    HTML5,
+    CSS3,
+    Tailwind,
+    CSS,
+    React.js,
+    MySQL,
+    PostgreSQL,
+    Machine Learning,
+    Deep Learning,
+    Natural Language Processing,
+    Computer Vision,
+    Data Science,
+    Generative AI,
+    PyTorch,
+    TensorFlow,
+    Scikit-learn,
+    NumPy,
+    Pandas,
+    OpenCV,
+    Plotly,
+    Matplotlib,
+    Git,
+    Figma,
+    VS Code,
+    Npm
+
+    " />
 </div>
 
 <br/>
