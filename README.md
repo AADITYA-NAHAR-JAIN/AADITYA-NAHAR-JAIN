@@ -8,13 +8,19 @@
 
 ## 🚀 About Me
 
-
+- 🤖 **Focus Area:** Specializing in LLM Orchestration, Autonomous Agents, and RAG pipelines.
+- 💡 **Passion:** Building production-grade AI applications and optimizing semantic search architectures.
+- ⚡ **Fun Fact:** I leverage graph structures and vector databases to help LLMs reason more effectively.
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nodejs,react,nextjs,ts,tailwind,html,css,postgres,redis,docker" />
 </div>
+
+<br/>
+
+## 📊 My Contributions
 
 <div align="center">
   <picture>
