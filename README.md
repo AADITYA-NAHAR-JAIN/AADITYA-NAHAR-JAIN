@@ -29,3 +29,12 @@
     <img alt="Snake eating my contributions" src="[https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/aaditya-nahar-jain/aaditya-nahar-jain/output/github-contribution-grid-snake-dark.svg)" />
   </picture>
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
+
